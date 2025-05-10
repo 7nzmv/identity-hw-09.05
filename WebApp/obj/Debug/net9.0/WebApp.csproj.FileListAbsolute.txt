@@ -143,3 +143,12 @@ C:\Users\user\Desktop\hw 09.05.25\WebApp\obj\Debug\net9.0\refint\WebApp.dll
 C:\Users\user\Desktop\hw 09.05.25\WebApp\obj\Debug\net9.0\WebApp.pdb
 C:\Users\user\Desktop\hw 09.05.25\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
 C:\Users\user\Desktop\hw 09.05.25\WebApp\obj\Debug\net9.0\ref\WebApp.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\hw 09.05.25\WebApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
